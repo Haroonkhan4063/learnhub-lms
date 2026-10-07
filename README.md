@@ -2,7 +2,7 @@
 
 A production-ready Learning Management System (LMS) built with the Next.js App Router. Developed for the Dev Weekends '26 Fellowship, this platform demonstrates full-stack capabilities including role-based access control, secure media streaming, and dynamic database interactions.
 
-🔗 **[Live Demo](Vercel_Link_Aayega)**
+🔗 **[Live Demo](https://learnhub-lms-psi.vercel.app/)**
 
 ## ✨ Key Features
 
